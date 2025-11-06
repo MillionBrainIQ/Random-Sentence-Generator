@@ -9,7 +9,7 @@ adjective = [["happy", "fruity", "high", "tipsy", "patriotic",
               "hapless", "smart"], 
              ["ecstatic", "enthusiastic", "anxious", 
               "intelligent", "ugly"]]
-noun = ["Kuvam", "Kevin", "student", "tiger shark",
+noun = ["Akshay", "Kevin", "student", "tiger shark",
         "sperm whale", "cobra", "sundew", "venus flytrap", 
         "puffball mushroom", "scientist", "researcher", 
         "nuclear enigneer", "nuclear reactor", "feather", 
